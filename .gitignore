@@ -4,4 +4,5 @@
 /*/Bike-Sharing-Dataset
 /*/output
 /*/processed_celeba_small
-/*/data
+/Part 04*/data/
+.gitignore
